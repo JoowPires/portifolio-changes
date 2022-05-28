@@ -5,7 +5,7 @@ export function Imagem(){
         <S.imagem>
         <S.gif>
             <lottie-player
-                style={{"width": "100%", "height": "100%", "max-width": "100%", "max-height": "100%", "min-width": "100%", "min-height": "100%", "margin": "0px auto"}}
+                style={{"width": "100%", "height": "100%",}}
                 speed={1}
                 autoplay="true"
                 loop="true"

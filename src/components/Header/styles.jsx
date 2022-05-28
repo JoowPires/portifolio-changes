@@ -5,7 +5,7 @@ export const header = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin: 0 30px;
+  margin: 0 60px;
 `;
 
 export const h1 = styled.h1`

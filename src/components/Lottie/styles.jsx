@@ -215,6 +215,7 @@ export const resume = styled.a`
   margin-top: 10px;
   p{
     display: none;
+    margin : 8px;
 
   }
   :hover{
